@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Store_Buy_end_Sell</string>
+    <string name="note_title_hint">note_edt_title</string>
+    <string name="note_description_hint">note_edt_description</string>
+    <string name="note_text_remove">note_text_remove</string>
+</resources>
